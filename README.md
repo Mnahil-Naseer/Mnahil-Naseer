@@ -1,28 +1,81 @@
-# 💫 About Me:
-<br>- 💻 I’m a **Fullstack Developer** with a love for frontend magic and a curious mind for backend logic.<br>- 🌐 I build modern web applications using **React.js**, **Tailwind CSS**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**.<br>- 🎨 I’ve got a creative edge with basic **UI/UX Design** skills using **Figma**.<br>- 🚗 Currently working on a university-exclusive **Carpooling App** as part of my Final Year Project.<br>- 🔒 Exploring the world of **Cybersecurity** and **SecDevOps**.<br>- 💡 I believe in **clean code, pixel-perfect design, and smart solutions**.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mnahil-naseer-847455282/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnahilnaseerofficial@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mnahil-Naseer&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mnahil-Naseer&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mnahil-Naseer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mnahil-Naseer&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<h1 align="center">Hey 👋, I'm Mnahil Naseer</h1>
+<h3 align="center">Fullstack Developer | Creative Thinker | Cybersecurity Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+ideas+into+interactive+products.;Writing+clean%2C+scalable+code.;Exploring+SecDevOps+%26+Cybersecurity" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mnahil-Naseer&icon=10&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a Coffee) 
+### 💫 About Me:
+- 💻 I’m a **Fullstack Developer** with a love for frontend magic and backend logic  
+- 🛠️ Tech stack: `React.js`, `Tailwind CSS`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`  
+- 🎨 Designing intuitive user experiences with **Figma**  
+- 🚗 Currently developing a **University-Exclusive Carpooling App** as part of my FYP  
+- 🧠 Exploring **Cybersecurity** & **SecDevOps** – because security is 🔑  
+- 🧼 I believe in: `Clean Code`, `Pixel-Perfect Designs`, and `Smart Automation`
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🧰 Tech Toolbox:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,figma,js,ts,cpp,vite,graphql,redux,firebase,docker,postgres,git,github,vercel,ps,html,css" /><br/>
+</div>
+
+---
+
+### 🌐 Connect With Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mnahil-naseer-847455282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mnahilnaseerofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mnahil-Naseer&theme=radical&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mnahil-Naseer&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mnahil-Naseer&layout=compact&theme=radical&hide_border=false" />
+</p>
+
+---
+
+### 🔝 Top Projects
+```diff
++ More FYP and community-based projects coming soon... Stay tuned! 🚀
+```
+
+---
+
+### ✍️ Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🎯 Visitors Counter
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Mnahil-Naseer&icon=10&color=8&style=flat-square" />
+</p>
+
+---
+
+<details>
+  <summary>📚 Currently Learning</summary>
+  <ul>
+    <li>🔐 Cybersecurity Fundamentals</li>
+    <li>🛡️ SecDevOps CI/CD Pipelines</li>
+    <li>⚙️ Building scalable architectures</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mnahil-Naseer&theme=monokai" />
+</p>
+
+<!-- Proudly created by Mnahil using Open Source Tools -->
+
+---
