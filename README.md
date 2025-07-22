@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Mnahil Naseer</h1>
 <h3 align="center">Fullstack Developer | Creative Thinker | Cybersecurity Enthusiast</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+ideas+into+interactive+products.;Writing+clean%2C+scalable+code.;Exploring+SecDevOps+%26+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Turning+ideas+into+interactive+products.;Writing+clean%2C+scalable+code." alt="Typing SVG" />
 </p>
 
 ---
