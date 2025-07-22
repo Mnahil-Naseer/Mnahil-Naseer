@@ -10,7 +10,6 @@
 - 💻 I’m a **Fullstack Developer** with a love for frontend magic and backend logic  
 - 🛠️ Tech stack: `React.js`, `Tailwind CSS`, `Next.js`, `Node.js`, `Express.js`, `MongoDB`  
 - 🎨 Designing intuitive user experiences with **Figma**  
-- 🚗 Currently developing a **University-Exclusive Carpooling App** as part of my FYP  
 - 🧠 Exploring **Cybersecurity** & **SecDevOps** – because security is 🔑  
 - 🧼 I believe in: `Clean Code`, `Pixel-Perfect Designs`, and `Smart Automation`
 
