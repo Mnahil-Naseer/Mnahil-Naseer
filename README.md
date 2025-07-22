@@ -1,65 +1,76 @@
-### Hi there 👋
+<h1 align="center">Hey there 👋, I'm Mnahil</h1>
+<h3 align="center">A Passionate Fullstack Developer | Frontend Enthusiast | UI/UX Explorer</h3>
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Crafting%20beautiful%20UIs;Building%20powerful%20APIs;Learning%20Cyber%20Security;Lover%20of%20Clean%20Code&font=Fira%20Code&center=true&width=500&height=50&pause=1000">
+</p>
 
-#### 🌱 My latest projects
-{{range recentCreatedRepos "charmbracelet" 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+---
 
-#### 🍴 My recent forks
-{{range recentForkedRepos "charmbracelet" 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+### 🚀 About Me
 
-#### 🔭 Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{- end}}
+- 💻 I’m a **Fullstack Developer** with a love for frontend magic and a curious mind for backend logic.
+- 🌐 I build modern web applications using **React.js**, **Tailwind CSS**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**.
+- 🎨 I’ve got a creative edge with basic **UI/UX Design** skills using **Figma**.
+- 🚗 Currently working on a university-exclusive **Carpooling App** as part of my Final Year Project.
+- 🔒 Exploring the world of **Cybersecurity** and **SecDevOps**.
+- 💡 I believe in **clean code, pixel-perfect design, and smart solutions**.
 
-#### 🔨 My recent Pull Requests
-{{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+---
 
-#### 📜 My recent blog posts
-{{range rss "https://.../posts/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+### 🛠️ Tech Stack
 
-#### 📓 Gists I wrote
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+#### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-#### ⭐ Recent Stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
-{{- end}}
+#### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
+#### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+---
 
-#### 💬 Feedback
+### 🔥 GitHub Stats
 
-Say Hello, I don't bite!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MnahilNaseer&show_icons=true&theme=radical&hide_title=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MnahilNaseer&theme=radical&hide_border=true" height="150" />
+</p>
 
-#### 📫 How to reach me
+---
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
+### 🌱 Currently Learning
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/charmbracelet/readme-scribe)!
+- 🌐 **Fullstack frameworks** like `Next.js` and `NestJS`
+- 🔒 Basics of **Cybersecurity** and **DevSecOps**
+- ⚙️ Dev tools like **Docker** and **GitHub Actions**
+- 📱 Mobile Development with **React Native**
 
-<!-- comments will be preserved -->
+---
+
+### 🧠 Fun Fact
+
+> *I don't just code websites — I craft experiences that users enjoy interacting with.*
+
+---
+
+### 📬 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/MnahilNaseer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+> *“Code with purpose, design with passion, and build with love.”* 💻🎨🌟
