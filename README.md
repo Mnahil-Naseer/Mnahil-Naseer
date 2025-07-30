@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;UX+Enthusiast+%F0%9F%8C%88;Code.+Design.+Secure." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;UI/UX+Enthusiast+%F0%9F%8C%88;Code.+Design.+Secure." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@ A detail-driven developer who blends logic with creativity to build seamless, re
 
 ### 🚧 Current Projects
 
-- 🚀 **Personality Development Tracker** — Self-growth app with AI-powered insights  
-- 🔧 **Low-Code Website Builder** — Build websites without writing full code  
-- 📖 **Book Sharing Platform** — Authors & readers on a secure, premium-access app  
+🎬 **StreamBox** — Movie & TV show tracker with custom watchlists and user reviews.<br>
+🛍️ **QuickMart** — Simple e-commerce platform with product listings, cart, and order management.<br>
+📖 **Book Sharing Platform** — Authors & readers on a secure, premium-access app.<br>  
 
 ---
 
@@ -63,7 +63,7 @@ A detail-driven developer who blends logic with creativity to build seamless, re
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnahil-naseer&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="file:///C:/Users/Lenovo/Desktop/mnahil/github-user-contribution.svg" />
+  <img src="github-user-contribution.svg" />
 </p>
 
 ---
