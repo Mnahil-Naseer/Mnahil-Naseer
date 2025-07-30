@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;Passionate+about+Building+Impactful+Things" alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;" alt="Typing SVG"/>
 
 <p align="center">
   <img src="https://media.tenor.com/FoWnFfSdu2YAAAAC/coding.gif" width="120" />
