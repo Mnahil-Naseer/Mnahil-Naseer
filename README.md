@@ -1,4 +1,5 @@
 <!-- GitHub Profile README -->
+![Visitor Count](https://komarev.com/ghpvc/?username=Mnahil-Naseer&label=Visitors&color=0e75b6&style=flat)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;UI/UX+Enthusiast+%F0%9F%8C%88;Code.+Design.+Secure." alt="Typing SVG"/>
