@@ -2,7 +2,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mnahil-Naseer&label=Visitors&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;UI/UX+Enthusiast+%F0%9F%8C%88;Code.+Design.+Secure." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;Full-stack+Developer+%F0%9F%92%BB;UI/UX+Enthusiast;Code.+Design.+Secure." alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -11,12 +11,11 @@
 
 ---
 
-### 🌸 About Me
-Hi! I'm **Mnahil Naseer**, a passionate Full-Stack Developer who enjoys designing beautiful and secure user experiences.
+### 🌸 About Me  
 
-🧠 Creative Thinker | 🌐 Full-Stack Developer | 🎨 UI/UX Enthusiast
-
-A detail-driven developer who blends logic with creativity to build seamless, responsive, and pixel-perfect web experiences. Passionate about modern tech stacks and clean UI/UX design that brings ideas to life. Always learning, always building.
+👋 Hi, I’m **Mnahil** — a full-stack developer who treats every project like a 🧩 puzzle.  
+🚀 I start projects thinking *“this will be simple”* and end them with a 🎓 **PhD in Googling error**.  
+💻 I’m here to make things that work — if it works beautifully, great ✨… if it works by accident, even better 😏.  
 
 ---
 
@@ -30,16 +29,6 @@ A detail-driven developer who blends logic with creativity to build seamless, re
     <td align="center"><img src="https://skillicons.dev/icons?i=js,ts,html,css,figma,github,vercel" /></td>
   </tr>
 </table>
-
----
-
-### 🚧 Current Projects
-
-🎬 **StreamBox** — Movie & TV show tracker with custom watchlists and user reviews.<br>
-🛍️ **QuickMart** — Simple e-commerce platform with product listings, cart, and order management.<br>
-📖 **Book Sharing Platform** — Authors & readers on a secure, premium-access app.<br>  
-
----
 
 ### 📫 Let’s Connect
 
