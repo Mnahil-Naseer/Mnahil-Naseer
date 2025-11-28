@@ -2,7 +2,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mnahil-Naseer&label=Visitors&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;+%F0%9F%92%BB;Code.+Design.+Secure." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mnahil+Naseer!;" alt="Typing SVG"/>
 </p>
 
 <p align="center">
