@@ -82,7 +82,7 @@ Currently learning, building, debugging, and occasionally wondering why the code
 </td>
 
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=mnahil-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mnahil-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-e5dvfg4nr-mnahil-naseers-projects.vercel.app/api?username=mnahil-naseer&show_icons=true&theme=tokyonight&count_private=true)" />
 </td>
 </tr>
 
