@@ -74,14 +74,34 @@ Currently learning, building, debugging, and occasionally wondering why the code
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mnahil-naseer&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mnahil-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnahil-naseer&layout=compact&theme=tokyonight&hide_border=true" />
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mnahil-naseer&theme=tokyonight&hide_border=true" />
+</td>
+
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=mnahil-naseer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnahil-naseer&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+
+<td>
+<img src="https://leetcard.jacoblin.cool/Mnahil?theme=dark" />
+</td>
+</tr>
+
+</table>
+
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=FF69B4&center=true&vCenter=true&width=700&lines=Build.+Learn.+Repeat.;Every+project+starts+with+an+idea.;Progress+over+perfection.;Still+learning%2C+still+building.;See+you+in+the+commit+history." alt="Motivation Typing SVG" />
