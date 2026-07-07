@@ -78,7 +78,7 @@ Currently learning, building, debugging, and occasionally wondering why the code
 <table>
 <tr>
 <td>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mnahil-naseer&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mnahil-naseer&theme=tokyonight&hide_border=true"/>
 </td>
 
 <td>
