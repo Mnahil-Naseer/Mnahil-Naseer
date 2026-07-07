@@ -88,7 +88,7 @@ Currently learning, building, debugging, and occasionally wondering why the code
 
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnahil-naseer&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mnahil-naseer&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
 
 <td>
