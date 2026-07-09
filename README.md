@@ -14,14 +14,9 @@
 
 ### 🌸 About Me
 
-👋 Hi, I'm **Mnahil**, a full-stack developer who enjoys turning ideas into things people can actually use.
-
-Most projects begin with *"this shouldn't take long"* and somehow end with twenty browser tabs, a lot of debugging, and a lesson I didn't know I needed.
-
+👋 Hi, I'm **Mnahil**, a full-stack web & app developer who enjoys turning ideas into things people can actually use.
 I enjoy building clean interfaces, reliable backend systems, and connecting the two without breaking everything in the process.
-
 Currently learning, building, debugging, and occasionally wondering why the code worked after doing absolutely nothing.
-
 ---
 
 ### 🛠 Tech Stack
