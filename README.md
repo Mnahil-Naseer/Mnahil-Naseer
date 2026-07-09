@@ -9,14 +9,15 @@
 <p align="center">
   <img src="https://media.tenor.com/FoWnFfSdu2YAAAAC/coding.gif" width="180" />
 </p>
-
 ---
 
 ### 🌸 About Me
 
-👋 Hi, I'm **Mnahil**, a full-stack web & app developer who enjoys turning ideas into things people can actually use.
-I enjoy building clean interfaces, reliable backend systems, and connecting the two without breaking everything in the process.
-Currently learning, building, debugging, and occasionally wondering why the code worked after doing absolutely nothing.
+👋 Hi, I'm **Mnahil**, a full-stack web and mobile developer passionate about building modern, user-focused applications.
+
+I enjoy creating responsive frontends, developing reliable backend systems, and turning ideas into practical digital solutions. My work focuses on writing clean, maintainable code while continuously learning new technologies and improving my development skills.
+
+When I'm not building projects, you'll usually find me exploring new tools, debugging tricky issues, or learning something new in web development and cybersecurity.
 ---
 
 ### 🛠 Tech Stack
