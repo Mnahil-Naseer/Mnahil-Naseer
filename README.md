@@ -18,6 +18,7 @@
 I enjoy creating responsive frontends, developing reliable backend systems, and turning ideas into practical digital solutions. My work focuses on writing clean, maintainable code while continuously learning new technologies and improving my development skills.
 
 When I'm not building projects, you'll usually find me exploring new tools, debugging tricky issues, or learning something new in web development and cybersecurity.
+
 ---
 
 ### 🛠 Tech Stack
